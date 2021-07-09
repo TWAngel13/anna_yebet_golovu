@@ -1,0 +1,1 @@
+aboba := kek[1,4,8,8] + kill(volodka, tolik, anya)
